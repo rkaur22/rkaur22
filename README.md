@@ -3,7 +3,7 @@
 <!--
 **rkaur22/rkaur22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on web development projects.
 - 🌱 I’m currently learning application development using HTML, CSS, and Javascript.
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: ...
--->
